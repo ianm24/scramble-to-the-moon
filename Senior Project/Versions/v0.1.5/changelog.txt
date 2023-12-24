@@ -1,0 +1,4 @@
+- Added Fox Boss
+- Fixed Animations
+- Fixed Occasional Jump Issues
+- Removed Rocketing

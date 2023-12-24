@@ -1,0 +1,4 @@
+- Added Sprites
+- Added Animations
+- Added Music
+- Added Checkpoint

@@ -1,0 +1,33 @@
+Ian McDowell - Project Manager, Programmer
+Avery Garner - Lead Artist
+Julian Espada - Lead Musician (using OnlineSequencer.net), Assistant Debugger
+Andrew Denman - Assistant Debugger
+Nick Driver - Assistant Debugger
+
+PlayTesters:
+Connor Elkins
+Julian Espada
+Avery Garner
+Emily Wilkins
+Dylan McDounagh
+Santino Longabardi
+Nolan Clark
+Chad Lowe
+
+Sound Effects:
+Freesound.org
+Subway Sound by CouleurCasquette (original name: "Train Horn")
+(https://freesound.org/people/CouleurCasquette/)
+(Edited by Ian McDowell to fit timing)
+
+Game Engine:
+Unity
+
+~Special Thanks~
+Jijun Tang for being my Mentor
+
+William Hostings for helping me start my project
+
+Andrew Denman for introducing me to Unity
+
+Nick Driver for introducing me to Unity

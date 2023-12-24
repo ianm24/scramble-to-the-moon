@@ -1,0 +1,4 @@
+- Fixed Jump-landing bug
+- Fixed Hitboxes
+- Added Lives Count
+https://goo.gl/forms/VzR2Dbpn2rE7ysmD2

@@ -1,0 +1,5 @@
+- Added New Player Sprite
+- Added Running
+- Added Main Menu
+- Added Options Menu
+- Added Pause Menu
